@@ -3,11 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I love coding, modding, and 3D animating!
 
-* 🌍  I'm based in California
-* ✉️  You can contact me at [davistran02@gmail.com](mailto:davistran02@gmail.com)
-* 🚀  I'm currently working on [Advanced Trajectory's Realistic Overhaul](http://steamcommunity.com/workshop/filedetails/?id=3036878362)
-* 🧠  I'm learning AWS
-
 ### Skills
 
 
